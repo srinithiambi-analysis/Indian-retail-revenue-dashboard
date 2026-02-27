@@ -72,4 +72,4 @@ Data Aggregation & KPI Calculation
 Dashboard Design & Data Visualization
 
 📷 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Project-dashboard.pn)
